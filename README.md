@@ -10,7 +10,7 @@ TermTranslate
 - googletrans >> 2.3.0+
 
 ## Use
-- for train
+- help
   ```
   python (or python3) [your path to main.py] [functions] [options]"
         functions:"

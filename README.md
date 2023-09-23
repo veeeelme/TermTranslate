@@ -36,4 +36,4 @@ TermTranslate
   ```
 
 ### Errors
-- if you have ```AttributeError: module 'httpcore' has no attribute 'SyncHTTPTransport'```, see this question: https://stackoverflow.com/questions/72796594/attributeerror-module-     httpcore-has-no-attribute-synchttptransport
+- if you have ```AttributeError: module 'httpcore' has no attribute 'SyncHTTPTransport'```, see this question: https://stackoverflow.com/questions/72796594/attributeerror-module-httpcore-has-no-attribute-synchttptransport

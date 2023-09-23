@@ -9,7 +9,7 @@ TermTranslate
 - python >> 3.4
 - googletrans >> 2.3.0+
 
-## Useage
+## Usage
 - help
   ```
   python (or python3) [your path to main.py] [functions] [options]"

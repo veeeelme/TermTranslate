@@ -1,6 +1,6 @@
 TermTranslate
 ===
-## Papar Information
+## Information
 - Title:  `TermTranslate`
 - Authors:  `VeeeelMe`
 - Description: `TermTranslate - is freely and easy to use translator in terminal!`
@@ -9,7 +9,7 @@ TermTranslate
 - python >> 3.4
 - googletrans >> 2.3.0+
 
-## Use
+## Useage
 - help
   ```
   python (or python3) [your path to main.py] [functions] [options]"
@@ -34,3 +34,6 @@ TermTranslate
   ```
   CPU: 2-core Intel Core i5
   ```
+
+### Errors
+- if you have ```AttributeError: module 'httpcore' has no attribute 'SyncHTTPTransport'```, see this question: https://stackoverflow.com/questions/72796594/attributeerror-module-     httpcore-has-no-attribute-synchttptransport

@@ -28,7 +28,7 @@ def detect_lang(words):
     translator = googletrans.Translator()
     if words == str:
         translator.detect(words)
-        return translator.detect(words)
+    return translator.detect(words)
 
 
 def all_langs():
